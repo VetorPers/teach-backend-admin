@@ -59,6 +59,9 @@
         "allow-plugins": {
             "kylekatarnls/update-helper": true,
             "symfony/thanks": true
+        },
+        "github-oauth": {
+            "github.com": "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"
         }
     }
 }
